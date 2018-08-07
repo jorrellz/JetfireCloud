@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>admin</name>
+    <name>jetfire-admin</name>
     <description>Demo project for Spring Cloud Admin</description>
 
     <parent>

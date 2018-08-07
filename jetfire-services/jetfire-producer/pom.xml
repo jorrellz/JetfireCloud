@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>producer</name>
+    <name>jetfire-producer</name>
     <description>Demo project for Spring Cloud Producer</description>
 
     <parent>

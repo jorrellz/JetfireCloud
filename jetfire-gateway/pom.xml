@@ -14,7 +14,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>gateway</name>
+    <name>jetfire-gateway</name>
     <description>Demo Gateway project for Spring Boot</description>
 
     <modules>
