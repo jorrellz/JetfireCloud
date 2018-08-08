@@ -28,8 +28,8 @@
 |  center  | jetfire-eureka-server             | 注册中心   |  http://localhost:8761  |      |
 |  center  | jetfire-bus-server                | 消息中心   |  http://localhost:8071  |      |
 |  center  | jetfire-config-server             | 配置中心   |  http://localhost:8061  |      |
-|  auth    | jetfire-authorization-server      | 授权服务   |  http://localhost:8000  | [权限服务文档](./auth) 、[授权Server文档](./auth/authorization-server)     |
-|  auth    | jetfire-authentication-server     | 签权服务   |  http://localhost:8001  | [认证Server文档](./auth/authentication-server)    |
+|  auth    | jetfire-authorization-server      | 授权服务   |  http://localhost:8000  | [权限服务文档](./jetfire-auth) 、[授权Server文档](./jetfire-auth/jetfire-authorization-server)     |
+|  auth    | jetfire-authentication-server     | 签权服务   |  http://localhost:8001  | [认证Server文档](./jetfire-auth/jetfire-authentication-server)    |
 |  auth    | jetfire-authentication-client     | 签权客户端  |  jar包引入              |      |
 |  gateway | jetfire-gateway                   | 网关       |  http://localhost:8443  |      |
 |  monitor | jetfire-admin                     | 总体监控    |  http://localhost:8022  |      |
