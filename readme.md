@@ -104,7 +104,7 @@
 
 消息总线：Rabbitmq
 
-动态网关：Spring Cloud Gateway，多种维度的流量控制（服务、IP、用户等），后端可配置化
+动态网关：Spring Cloud Gateway
 
 授权认证：Spring Security OAuth2
 
